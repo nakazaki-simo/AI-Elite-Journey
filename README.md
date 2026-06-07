@@ -1,8 +1,6 @@
 # AI-Elite-Journey
 Day 1 Starting my AI Elite Journey
 
-# AI Elite Journey
-
 My journey to become an AI Engineer and Research Engineer.
 
 ## Progress
